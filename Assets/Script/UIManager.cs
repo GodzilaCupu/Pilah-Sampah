@@ -24,15 +24,6 @@ public class UIManager : MonoBehaviour
 
     public void Lanjut2()
     {
-        SceneManager.LoadScene("Level 3");
-    }
-
-    #endregion
-
-    #region Level 3
-
-    public void Lanjut3()
-    {
         SceneManager.LoadScene("MainMenu");
     }
 

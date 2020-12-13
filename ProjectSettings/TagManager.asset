@@ -4,9 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - LightBlue
   - Crosair
-  - Red
+  - Organik
+  - NonOrganik
+  - Bahaya
   layers:
   - Default
   - TransparentFX
